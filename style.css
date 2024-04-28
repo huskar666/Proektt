@@ -1,0 +1,43 @@
+.place{
+    height: 90px; width: 350px;
+    font-family: "Roboto Slab", serif;
+}
+.big-place{
+    height: 90px; width: 350px;
+    font-family: "Roboto Slab", serif;
+}
+.placeholder{
+    margin-right: 50px;
+    font-family: "Roboto Slab", serif;
+}
+.form{
+    display: flex; justify-content: center;
+    font-family: "Roboto Slab", serif;
+}
+footer{
+    width: 1900px; height: 725px; background-color: black;
+    font-family: "Roboto Slab", serif;
+}
+.header{
+    color: gold; float: left;
+    font-family: "Roboto Slab", serif;
+}
+.header-logo{
+    color: gold; float: left;
+    font-family: "Noto Serif", serif;
+}
+.main-logo{
+    text-align: center;
+    font-family: "Roboto Slab", serif;
+}
+.img{
+    height: 150px; width: 250px;
+}
+.cell{
+    text-align: center; float: left;
+    font-family: "Roboto Slab", serif;
+}
+.main-content{
+    display: flex; justify-content: space-between;
+    
+}
